@@ -1,2 +1,2 @@
 # citrushack
-My first repository
+My first Citrus Hack repository
